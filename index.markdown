@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+![bannerpic](http://baitu.github.io/taiwan/assets/img/home3_cropped.jpg)
