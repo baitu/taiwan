@@ -5,7 +5,7 @@ date:   2022-10-24 16:58:00 +0800
 categories: jekyll update
 ---
 
-![Longshan](https://baitu.github.io/taiwan/assets/img/20221023_163920.jpg)
+![Longshan outside view](https://baitu.github.io/taiwan/assets/img/20221023_163920.jpg)
 
 ![Longshan selfie](https://baitu.github.io/taiwan/assets/img/20221023_163440.jpg)
 
@@ -13,9 +13,9 @@ Longshan Temple is dedicated mainly to the Daoist goddess [Mazu](https://en.wiki
 
 I didn't take pictures inside because people were worshipping and it would have felt disrespectful. I made a short video to try and convey the atmosphere. 
 
-<iframe width=480 height=270 src = "https://baitu.github.io/taiwan/assets/vid/longshan.mp4"></iframe>
+<iframe width=480 height=270 autoplay=0 src = "https://baitu.github.io/taiwan/assets/vid/longshan.mp4"></iframe>
 
-Monks were sitting inside the prayer hall leading the chant and accompanying it with simple instruments (a drum and a bell). Common temple-goers were standing, sitting or kneeling, following the chant by reading from a prayer book. There is no sermon, the service consists only of 2 hours of uninterrupted chanting.
+Monks were sitting inside the prayer hall leading the chant and accompanying it with simple instruments (a drum and a bell). Common temple-goers were standing, sitting or kneeling outside, following the chant by reading from a prayer book. There is no sermon, the service consists only of 2 hours of uninterrupted chanting.
 
 Many temple-goers were not participating in the chant but just strolling around and chatting. The atmosphere, while devotional, is a lot more laid back than in Christian services. 
 
