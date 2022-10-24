@@ -5,9 +5,9 @@ date:   2022-10-24 16:58:00 +0800
 categories: jekyll update
 ---
 
-![Longshan](http://baitu.github.io/taiwan/assets/img/20221023_163920.jpg)
+![Longshan](https://baitu.github.io/taiwan/assets/img/20221023_163920.jpg)
 
-![Longshan selfie](http://baitu.github.io/taiwan/assets/img/20221023_163440.jpg)
+![Longshan selfie](https://baitu.github.io/taiwan/assets/img/20221023_163440.jpg)
 
 Longshan Temple is dedicated mainly to the Daoist goddess [Mazu](https://en.wikipedia.org/wiki/Mazu) and the Buddhist goddess [Guanyin](https://en.wikipedia.org/wiki/Guanyin) (who is technically a bodhisattva but gets worshipped as a goddess), as well as a host of lesser gods and goddesses from several different traditions. East Asian gods are less possessive than our Western ones and don't mind sharing their living space. 
 
