@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A walk through Taiwan's difficult past"
-date:   2022-10-28 23:26:00 +0800
+date:   2022-10-31 02:14:00 +0800
 categories: jekyll update
 ---
 
