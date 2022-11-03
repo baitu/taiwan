@@ -13,6 +13,8 @@ So what I'm going to do here is give my perspective on the main differences betw
 
 *<small>I'm going to say "the West" a lot; consider it a shorthand for "Europe and North America" or, to be precise here, "West Germany and the U.S. East coast". Experiences within a culture can be representative, but they cannot be universal. "The West" is a difficult concept in general and the way it is used in the Sinosphere is a big topic that might make it into its own blog post.</small>*
 
+![](https://baitu.github.io/taiwan/assets/img/20221103_210740.jpg)
+
 ## Similarities
 
 If you have been to LGBT+ events in the West, here is what you will recognize at Taipei Pride as being pretty much the same. 
