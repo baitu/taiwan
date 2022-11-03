@@ -62,8 +62,10 @@ A separate but related observation is that the cis allo gay male experience was 
 
 I felt uneasy about going to the Trans March alone, so I messaged a local trans org the day before. Their reply was: "Relax, it's perfectly safe!"
 
-Taiwan is one of the safest countries in the world, with an extremely low crime rate. Violent crimes happen, of course, but mostly in connection with gangs. Homophobia and transphobia exist, of course, but they mostly get expressed in domestic and workplace settings. Getting called slurs or beaten up by strangers in the street isn't something that Taiwanese queer people seem to be afraid of. ***However***, this is me extrapolating from conversations with a handful of people so please take this with a grain of salt. 
+Taiwan is one of the safest countries in the world, with an extremely low crime rate. Violent crimes happen, of course, but mostly in connection with gangs. Homophobia and transphobia exist, of course, but they mostly get expressed in domestic or workplace settings. Getting called slurs or beaten up by strangers in the street isn't something that Taiwanese queer people seem to be afraid of. ***However***, this is me extrapolating from conversations with a handful of people so please take this with a grain of salt. 
 
 What I can definitely say is that my personal feeling of safety was higher taking the Taipei metro home alone with my hands full of Pride merch, than it would have been in Germany.
+
+<br/><br/>
 
 Read more about Taipei Pride [here](https://www.reuters.com/world/asia-pacific/taiwan-celebrates-diversity-equality-east-asias-largest-pride-march-2022-10-29/) and about the Trans March [here](https://newbloommag.net/2022/10/28/fourth-annual-trans-march/).
