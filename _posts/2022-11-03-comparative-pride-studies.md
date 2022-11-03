@@ -9,7 +9,7 @@ I have been asked to make a post about Pride, so here goes.
 
 Last week-end was the annual Taipei Pride event, with the main parade on Saturday and a smaller Trans March on Friday night. Taipei Pride is the largest LGBT+ event in Asia and gets reported on internationally, so I didn't take any pictures because it felt redundant (also I was busy talking with people and having fun!). 
 
-So what I'm going to do here is give my perspective on the main differences between Taipei Pride and the LGBT+ events I've attended in Germany. I also made friends with an American from Baltimore and we talked at length about the differences and similarities we saw between the Pride events he knows, the ones I know, and Taipei Pride. So, here's the breakdown. 
+So what I'm going to do here is give my perspective on the main differences between Taipei Pride and the LGBT+ events I've attended in Germany. I also made friends with an American from Maryland and we talked at length about the differences and similarities we saw between the Pride events he knows, the ones I know, and Taipei Pride. So, here's the breakdown. 
 
 *<small>I'm going to say "the West" a lot; consider it a shorthand for "Europe and North America" or, to be precise here, "West Germany and the U.S. East coast". Experiences within a culture can be representative, but they cannot be universal. "The West" is a difficult concept in general and the way it is used in the Sinosphere is a big topic that might make it into its own blog post.</small>*
 
