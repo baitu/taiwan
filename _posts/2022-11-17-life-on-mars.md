@@ -9,7 +9,7 @@ categories: jekyll update
 
 [Yehliu](https://en.wikipedia.org/wiki/Yehliu) is a beach with unique geological features. I went there on a little day trip. There were a lot of tourists, it was hard to get a picture without other people in frame. 
 
-![](https://baitu.github.io/taiwan/assets/img/20221113_124508.jpg)s
+![](https://baitu.github.io/taiwan/assets/img/20221113_124508.jpg)
 The lamps on this fishing boat are used for nighttime fishing.
 
 ![](https://baitu.github.io/taiwan/assets/img/20221113_124514.jpg)
