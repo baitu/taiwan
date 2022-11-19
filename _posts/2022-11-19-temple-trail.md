@@ -53,7 +53,7 @@ Cemetery
 ![](https://baitu.github.io/taiwan/assets/img/20221119_132806.jpg)
 
 ![](https://baitu.github.io/taiwan/assets/img/20221119_133745.jpg)
-Another holy banyan. It gets offerings, hence the plate
+Another holy banyan. It gets offerings from worshippers, hence the plate
 
 ![](https://baitu.github.io/taiwan/assets/img/20221119_135912.jpg)
 I asked which god this temple is dedicated to; the friendly temple worker replied with a long string of names. I'm not sure whether she named a lot of different gods, or a lot of names for the same god. Either is possible in Daoism.
