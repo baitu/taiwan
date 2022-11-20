@@ -17,7 +17,7 @@ The map doesn't even list all the shrines!
 100 year old banyan tree. Banyans are holy trees in Buddhism.
 
 ![](https://baitu.github.io/taiwan/assets/img/20221119_121218.jpg)
-Shrine to Guanyin, the transfeminine boddhisattva
+Shrine to Guanyin, the transfeminine bodhisattva
 
 ![](https://baitu.github.io/taiwan/assets/img/20221119_121311.jpg)
 ![](https://baitu.github.io/taiwan/assets/img/20221119_121318.jpg)
