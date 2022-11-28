@@ -11,7 +11,7 @@ My research topic is how digital humanities are done in Taiwan and how this migh
 
 Today however I have seen something worth blogging about! 
 
-The curator and head of the digitization effort at [National Museum of Taiwan History](https://www.nmth.gov.tw/en/) was nice enough to give me a tour of their basement, where archivists and engineers are busy digitizing the museum's collections. The NMTH has, among other things, a very large collection of thousands of ancient maps; the largest collection of Taiwanese folk religion figurines; a collection of several thousand vinyls from the Japanese colonial era; and more. Digitization, obviously, is a process that can vary a lot depending on the object that is being digitized. That means a lot of different machines!
+The curator and head of the digitization effort at [National Museum of Taiwan History](https://www.nmth.gov.tw/en/) was nice enough to give me a tour of their basement, where archivists and engineers are busy digitizing the museum's collections. The NMTH has, among other things, a very large collection of thousands of ancient maps; the largest collection of Taiwanese folk religion figurines; a collection of several thousand vinyls from the Japanese colonial era; and more. Digitization, obviously, is a process that can vary a lot depending what sort of object is being digitized. That means a lot of different machines!
 
 ![](https://baitu.github.io/taiwan/assets/img/20221128_110153.jpg)
 Starting off small, this is how vinyls get digitized. Although there are more complex techniques, the engineer in charge told us that the best results are attained by simply playing the disc on a contemporary player and recording with a handheld microphone. 
