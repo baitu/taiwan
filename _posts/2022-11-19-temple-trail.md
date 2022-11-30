@@ -71,5 +71,5 @@ I asked which god this temple is dedicated to; the friendly temple worker replie
 
 ![](https://baitu.github.io/taiwan/assets/img/20221119_150727.jpg)
 
-![](https://baitu.github.io/taiwan/assets/img/20221119_153520.png)
+![](https://baitu.github.io/taiwan/assets/img/20221119_153520.jpg)
 Extremely tired but happy at the end of the hike!
